@@ -2,7 +2,7 @@
 #include <stdarg.h>
 
 /**
- * sum_them_all - a function that returns the sum of all its parameters.
+ * sum_them_all - sum of all its parameters.
  * @n: The number of arguements.
  * Returun: sum off arguemnets.
  */
